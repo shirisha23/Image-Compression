@@ -8,10 +8,13 @@ This project has been developed in java by using K- Means Clustering algorithm.
 To run the code, use the below commands:
 
 /> javac ./kmeans/Kmeans.java
+
 /> java kmeans/Kmeans <original file path> <compressed file name> <K value>
   
 Example:
+
 /> java kmeans/Kmeans koala.jpg koala 15.jpg 15
+
 <Compressed file name> represents the name of the compressed image file you want to create.
 
 Output:
